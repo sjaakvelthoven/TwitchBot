@@ -12,7 +12,7 @@ from lib import cfg
 HOST = "irc.twitch.tv"                                  # the Twitch IRC server
 PORT = 6667                                             # always use port 6667!
 NICK = "riboture"                                       # your Twitch username, lowercase
-PASS = "oauth:fv7eg2w31t8fslccflit2506ej3gkx"           # your Twitch OAuth token
+PASS = "oauth:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"           # your Twitch OAuth token
 CHAN = "#ridgure"                                       # the channel you want to join
 RATE = 20/30                                            # messages per second
 PATT = [
